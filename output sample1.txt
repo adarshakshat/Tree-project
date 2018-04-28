@@ -1,0 +1,268 @@
+MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+6
+Enter the String:       adarsh
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+a       d       a       r       s       h
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+3
+Enter the string to be searched
+ada
+         1 found
+         2 found
+         3 found
+
+FOUND
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+9
+Enter the String:       uuuuuuuuu
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+u       u       u       u       u       u       u       u       u
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+4
+Enter the string to be searched
+uuuu
+         1 found
+         2 found
+         3 found
+         4 found
+
+FOUND
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+9
+Enter the string to be searched
+uuuuuuuuu
+         1 found
+         2 found
+         3 found
+         4 found
+         5 found
+         6 found
+         7 found
+         8 found
+         9 found
+
+FOUND
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+
+
+
+
+
+
+
+
+
+
+
+
+

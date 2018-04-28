@@ -1,0 +1,466 @@
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+13
+Enter the String:       qwertyuiopasd
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+q       w       e       r       t       y       u       i       o       p       a       s       d
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+12
+Enter the string to be searched
+qwertyuiopas
+         1 found
+         2 found
+         3 found
+         4 found
+         5 found
+         6 found
+         7 found
+         8 found
+         9 found
+         10 found
+         11 found
+         12 found
+
+FOUND
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+qwertyuiopkjh
+Enter the string to be searched
+         1 found
+         2 found
+         3 found
+         4 found
+         5 found
+         6 found
+         7 found
+         8 found
+         9 found
+         10 found
+not found enter a charcater now to come home
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+seach completed
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+25
+Enter the String:       zxcvbnmlkjhgfdsaqwertyuio
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+z       x       c       v       b       n       m       l       k       j       h       g       f       d       s
+a       q       w       e       r       t       y       u       i       o
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+zxcvbnml
+Enter the string to be searched
+         1 found
+         2 found
+         3 found
+         4 found
+         5 found
+         6 found
+         7 found
+         8 found
+not found enter a charcater now to come home
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+seach completed
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+3
+Enter the String:       rew
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+r       e       w
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+re
+Enter the string to be searched
+         1 found
+         2 found
+not found enter a charcater now to come home
