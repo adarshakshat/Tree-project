@@ -1,0 +1,238 @@
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+3
+Enter the String:       ada
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ data have been inserted
+a       d       a
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+4
+Enter the String:       adar
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+1
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+Enter the String Length
+6
+Enter the String:       adarsh
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+press a key for next step
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****data Inserted****
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+3
+Enter the string to be searched
+ada
+         1 found
+         2 found
+         3 found
+
+FOUND
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+1 for Insertion
+2 for searching
+3Exit
+Enter Your Choice
+2
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+ MYclrscr is not working sorry ----***
+
+------***TREE***-----
+
+****search strted****
+Enter the length of the String to be searched
+4
+Enter the string to be searched
+wade
+not found enter a charcater now to come home
