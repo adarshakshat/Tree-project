@@ -50,7 +50,6 @@ int main(){
 	node1= (struct node*) malloc(sizeof(struct node));
 	node2= (struct node*) malloc(sizeof(struct node));
 	*/	
-	//9334778884 haldi turmeric 
 	
 	while(1){
 		print();
